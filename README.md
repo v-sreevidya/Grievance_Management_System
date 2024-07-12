@@ -1,5 +1,5 @@
-The Grievance Management System will consist of three main roles: User, Supervisor, and Assignee. Each role will have specific views and data flows to facilitate the efficient handling of grievances.
-User Role:
+The Grievance Management System will consist of three main roles: User, Supervisor, and Assignee. Each role will have specific views and data flows to facilitate the efficient handling of grievances.<br>
+User Role:<br>
  Functionality: Users can raise complaints or queries related to various categories.
  View: A user-friendly interface for submitting grievances, viewing status updates.
 Supervisor Role:
